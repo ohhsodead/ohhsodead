@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Cool project's of mine
-* [Modio](https://github.com/ohhsodead/Modio) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
+* [NeoModsX](https://github.com/ohhsodead/NeoModsX) - Browse, Download and Install Mods for PlayStation 3 & Xbox 360
 * [Atomic](https://github.com/ohhsodead/Atomic) - Browse, Download and Install GSC Mods for Black Ops II
 * [FileMasta](https://github.com/ohhsodead/FileMasta) - A search application to explore, discover and share online files
 * [CoD Tracker](https://github.com/ohhsodead/CoD-Tracker) - A simple windows application that uses the Call of Duty®: World War II public API to display users stats and leaderboards.
