@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Hi there 👋, I'm ohhsodead!</h1>
+<h1>Hi there 👋, I'm OhhSoWzrd!</h1>
 <p>Here are some of my cool projects:</p>
 
 <h3><a href="https://github.com/OhhSoWzrd/arisen-studio">Arisen Studio</a></h3>
