@@ -1,18 +1,18 @@
 <div align="center">
 
-<h1>Hi there 👋, I'm OhhSoWzrd!</h1>
+<h1>Hi there 👋, I'm ohhsodead!</h1>
 <p>Here are some of my cool projects:</p>
 
-<h3><a href="https://github.com/OhhSoWzrd/arisen-studio">Arisen Studio</a></h3>
+<h3><a href="https://github.com/ohhsodead/arisen-studio">Arisen Studio</a></h3>
 <p>Browse, Download, and Install Mods for PlayStation 3 & Xbox 360.</p>
 
-<h3><a href="https://github.com/OhhSoWzrd/arisen-gsc-injector">Arisen GSC Injector</a></h3>
+<h3><a href="https://github.com/ohhsodead/arisen-gsc-injector">Arisen GSC Injector</a></h3>
 <p>Explore, Download, and Install GSC Mods for Black Ops II on PlayStation 3 & Xbox 360.</p>
 
-<h3><a href="https://github.com/OhhSoWzrd/FileMasta">FileMasta</a></h3>
+<h3><a href="https://github.com/ohhsodead/FileMasta">FileMasta</a></h3>
 <p>A search application to explore, discover, and share online files.</p>
 
-<h3><a href="https://github.com/OhhSoWzrd/CoD-Tracker">CoD Tracker</a></h3>
+<h3><a href="https://github.com/ohhsodead/CoD-Tracker">CoD Tracker</a></h3>
 <p>A Windows app that uses the Call of Duty®: World War II public API to display user stats and leaderboards.</p>
 
 </div>
@@ -28,7 +28,7 @@
       <td>
         <img
           src="https://lanyard.kyrie25.me/api/212676144934289408?bg=transparent&waveColor=DD6387&waveSpotifyColor=DD6387&gradient=DD6387-DD6387&imgFit=cover"
-          alt="OhhSoWzrd's Lanyard Status"
+          alt="ohhsodead's Lanyard Status"
         />
       </td>
     </tr>
@@ -38,7 +38,7 @@
     <tr>
       <td>
         <img
-          src="https://stats.tompc.live/api/top-langs/?username=OhhSoWzrd&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
+          src="https://stats.tompc.live/api/top-langs/?username=ohhsodead&layout=compact&theme=transparent&text_color=cdd6f4&hide_border=true&icon_color=cba6f7&title_color=94e2d5&langs_count=8"
           alt="Most Used Languages"
         />
         <br />
@@ -62,7 +62,7 @@
   <h1></h1>
 
   <kbd>
-    <a href="https://paypal.me/OhhSoWzrd">
+    <a href="https://paypal.me/ohhsodead">
       <img
         src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white&color=blue"
         alt="PayPal"
@@ -70,7 +70,7 @@
       /> </a
   ></kbd>
   <kbd
-    ><a href="https://x.com/OhhSoWzrd">
+    ><a href="https://x.com/ohhsodead">
       <img
         src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=for-the-badge"
         alt="Twitter"
